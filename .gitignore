@@ -31,9 +31,6 @@
 *.out
 *.apps
 
-# VSCode
-.vscode
-
 # Build
 build/*
 !build/.gitkeep 
